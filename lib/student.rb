@@ -10,4 +10,5 @@ def learn(string)
   @knowledge << string
 end
 
+
 end
